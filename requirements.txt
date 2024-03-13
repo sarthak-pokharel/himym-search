@@ -1,0 +1,5 @@
+langchain
+unstructured
+langchain-openai
+numpy
+chromadb
